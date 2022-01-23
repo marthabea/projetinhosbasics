@@ -1,0 +1,5 @@
+#sobremim
+nome = input('Qual o seu nome?')
+idade = input('Qual a sua idade?')
+país = input('De qual País você é?')
+print("Seu nome é {} sua idade é {} anos e você vem do país {}".format(nome,idade,país))
