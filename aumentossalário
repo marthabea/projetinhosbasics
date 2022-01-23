@@ -1,0 +1,4 @@
+salário = 1500.0
+aumento = 5
+salário_novo = salário*(1 + aumento/100)
+print('O salário de R${:.2F} com o aumento de {}% passou a ser de: R${:.2F}'.format(salário,aumento,salário_novo))
